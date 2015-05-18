@@ -3,6 +3,8 @@ Python CMake build system
 
 A system for faster, straightforward cross-platform CPython builds across HPC, desktop, and mobile platforms with multiple build system generators and easy integration with C/C++/Fortran scientific computing libraries is described. 
 
+[![DOI](https://zenodo.org/badge/5029/jcfr/scipy_2014_python-cmake-buildsystem_poster.svg)](http://dx.doi.org/10.5281/zenodo.17736)
+
 Abstract
 --------
 
