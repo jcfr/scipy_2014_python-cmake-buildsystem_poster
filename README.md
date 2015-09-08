@@ -25,3 +25,7 @@ Materials in this repository are distributed under the following licenses:
 
 All Works of Art are licensed under the Creative Commons Attribution-ShareAlike 3.0.
 See LICENSE_CC_BY_SA_30 file for details.
+
+The source [svg](https://github.com/jcfr/scipy_2014_python-cmake-buildsystem_poster/blob/master/scipy_2014_cmake-python-buildsystem_poster.svg) file editable using [Inkscape](https://inkscape.org) is available in this repository. The layout is based on the original work of [Felix Breuer](http://blog.felixbreuer.net/2010/10/24/poster.html).
+
+![scipy2014-poster-based-on-template-from-felix-breuer](https://cloud.githubusercontent.com/assets/219043/9734747/b1a21fc4-5603-11e5-8b0c-9cd898186bb7.png)
